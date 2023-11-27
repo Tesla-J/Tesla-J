@@ -34,3 +34,9 @@ Entry-level android developer, freelancer and computer science studend.
     <img alt="PHP" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
     <img alt="C" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
   </section>
+
+## Professional profiles
+
+- [Fiverr](https://www.fiverr.com/users/rafaelmarcos19)
+- [Upwork](https://www.upwork.com/freelancers/~01e3c18defcdbc0280)
+- [Linkedin](https://www.linkedin.com/in/rafael-marcos-41259a21b)
