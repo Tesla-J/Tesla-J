@@ -39,4 +39,4 @@ Entry-level android developer, freelancer and computer science studend.
 
 - [Fiverr](https://www.fiverr.com/users/rafaelmarcos19)
 - [Upwork](https://www.upwork.com/freelancers/~01e3c18defcdbc0280)
-- [Linkedin](https://www.linkedin.com/in/rafael-marcos-41259a21b)
+- [Linkedin](https://www.linkedin.com/in/rafael-marcos-41359a21b)
