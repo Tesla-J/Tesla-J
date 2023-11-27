@@ -22,15 +22,15 @@ Entry-level android developer, freelancer and computer science studend.
     <img alt="Java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
     <img alt="Kotlin" width="70" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
     <img alt="Git" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-    <img alt="GitHub" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+    <img alt="MySQL" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   </section>
 
 - ### Basic knowlege
 
   <section>
-    <img alt="" width="70" src="" />
-    <img alt="" width="70" src="" />
-    <img alt="" width="70" src="" />
-    <img alt="" width="70" src="" />
-    <img alt="" width="70" src="" />
+    <img alt="HTML5" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
+    <img alt="CSS3" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
+    <img alt="JavaScript" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+    <img alt="PHP" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
+    <img alt="C" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
   </section>
