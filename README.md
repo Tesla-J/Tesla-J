@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Yo! Rafael here.
 
-Entry-level android developer, freelancer and computer science studend.
+Entry-level android & backend developer, freelancer and computer science studend.
 
 ## Check out my skill set:
 
