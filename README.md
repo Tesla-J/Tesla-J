@@ -11,7 +11,7 @@
 I'm a **Backend Developer focused on Spring Boot**, working with **Java** and **Kotlin**.
 Android development is my secondary skill, which keeps me sharp across the JVM ecosystem.
 
-- 🔭 I'm currently working at **QNB Angola** as a Software Developer
+- 🔭 I'm currently working at **QNB Angola** as a Backend Developer
 - 🎓 Graduated in **Computer Science** (IMETRO)
 - 🌱 Currently studying at **42 Luanda** — project-based education
 - 🧑‍🚀 Previously worked as a **freelancer** for international clients on Fiverr
