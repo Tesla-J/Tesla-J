@@ -18,6 +18,7 @@ Entry-level android & backend developer, freelancer and computer science studend
 - ### Main skills
 
   <section>
+    <img alt="Spring Boot" width="70" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000"/>
     <img alt="Android" width="70" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" />
     <img alt="Java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
     <img alt="Kotlin" width="70" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
