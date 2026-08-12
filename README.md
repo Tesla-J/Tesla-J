@@ -9,11 +9,23 @@ Tesla-J/Tesla-J is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Yo! Rafael here.
+# 👋 Hi, I'm Rafael Marcos.
 
-Entry-level android & backend developer, freelancer and computer science studend.
+## Backend Devleoper specializing in Spring Boot - Android Developer
 
-## Check out my skill set:
+## About Me
+
+I'm a **Backend Developer focused on Spring Boot**, working with **Java** and **Kotlin**.
+Android development is my secondary skill, which keeps me sharp across the JVM ecosystem.
+
+- 🔭 I'm currently working at **QNB Angola** as a Software Developer
+- 🎓 Graduated in **Computer Science** (IMETRO)
+- 🌱 Currently studying at **42 Luanda** — project-based education
+- 🧑‍🚀 Previously worked as a **freelancer** for international clients on Fiverr
+- 🎨 Outside of code, I draw as a hobby
+- 🍥 I enjoy watching **anime** and reading **manhwas**
+
+## My Skills:
 
 - ### Main skills
 
