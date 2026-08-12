@@ -1,19 +1,12 @@
-<!--- 👋 Hi, I’m @Tesla-J
-- 👀 I’m interested in Android programming, but I like to learn different skills, like web, Operating Systems, etc.
-- 🌱 I’m currently learning data structure and algorithms to increase the efficiency of my algorithms.
-- 💞️ I’m looking to collaborate on Android apps projects.
-- 📫 How to reach me [Upwork](https://www.upwork.com/o/profiles/users/~01e3c18defcdbc0280/) -->
+<h1 align="center">👋 Hi, I'm Rafael Marcos</h1>
+<h3 align="center">Backend Developer specializing in Spring Boot · Android Developer (Kotlin)</h3>
 
-<!---
-Tesla-J/Tesla-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://rmarcos.dev"><img src="https://img.shields.io/badge/Portfolio-rmarcos.dev-blue" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rafael-marcos-41359a21b"><img src="https://img.shields.io/badge/LinkedIn-rafaelmarcos-blue" alt="LinkedIn"></a>
+</p>
 
-# 👋 Hi, I'm Rafael Marcos.
-
-## Backend Devleoper specializing in Spring Boot - Android Developer
-
-## About Me
+### 👨‍💻 About Me
 
 I'm a **Backend Developer focused on Spring Boot**, working with **Java** and **Kotlin**.
 Android development is my secondary skill, which keeps me sharp across the JVM ecosystem.
@@ -25,31 +18,26 @@ Android development is my secondary skill, which keeps me sharp across the JVM e
 - 🎨 Outside of code, I draw as a hobby
 - 🍥 I enjoy watching **anime** and reading **manhwas**
 
-## My Skills:
+### 🛠️ Tech Stack
 
-- ### Main skills
+**Primary — Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-  <section>
-    <img alt="Spring Boot" width="70" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000"/>
-    <img alt="Android" width="70" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" />
-    <img alt="Java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-    <img alt="Kotlin" width="70" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
-    <!--<img alt="Git" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-    <img alt="MySQL" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" /> -->
-  </section>
-<!--
-- ### Basic knowlege
+**Secondary — Android:**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-  <section>
-    <img alt="HTML5" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
-    <img alt="CSS3" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
-    <img alt="JavaScript" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-    <img alt="PHP" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
-    <img alt="C" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-  </section> -->
+### 🚀 Hot Projects
 
-## Professional profiles
+[![Job Board API](https://github-readme-stats.vercel.app/api/pin/?username=Tesla-J&repo=job-board&theme=github_dark)](https://github.com/Tesla-J/job-board)
 
-- [Fiverr](https://www.fiverr.com/users/rafaelmarcos19)
-- [Upwork](https://www.upwork.com/freelancers/~01e3c18defcdbc0280)
-- [Linkedin](https://www.linkedin.com/in/rafael-marcos-41359a21b)
+A Spring Boot API where companies post job opportunities and candidates apply, tracking their application progress.
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tesla-J&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Tesla-j&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
+
+<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tesla-J&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Tesla-j&layout=compact&langs_count=10&theme=dark)-->
